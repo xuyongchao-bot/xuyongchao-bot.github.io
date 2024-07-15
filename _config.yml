@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yongchao Xu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yongchao Xu(徐永超)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "University of Science and Technology of China"
+  bio              : "Master degree candidate in USTC"
+  location         : "Hefei, China"
+  employer         : "USTC"
   uri              : # URL
   email            : "yongchaoxu@mail.ustc.edu.cn" 
 
