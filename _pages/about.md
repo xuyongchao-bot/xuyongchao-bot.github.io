@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 I'm a first-year postgraduate student from [Multimodal Intelligence Lab](https://zhas-group.pages.dev/), [University of Science and Technology of China](https://www.ustc.edu.cn/).
+My research interests include Multimodal representation learning， Human-Object Interaction(HOI) Detection, Deep learning. 
+
+
 
 A data-driven personal website
 ======
