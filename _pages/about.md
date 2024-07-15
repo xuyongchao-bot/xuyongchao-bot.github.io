@@ -27,10 +27,6 @@ My research interests include Multimodal representation learning， Human-Object
   * Association rule analysis
   * Multi-mode matching
 
-## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 ## Participate in a project or competition
 * National key research and development project, 2023
