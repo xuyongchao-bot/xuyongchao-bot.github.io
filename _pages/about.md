@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm a first-year postgraduate student from [Multimodal Intelligence Lab](https://zhas-group.pages.dev/), [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
-I am very fortunate to be advised by [Associate Prof. Jiawei Liu](https://auto.ustc.edu.cn/2021/0510/c25977a484823/page.htm) from [University of Science and Technology of China](https://www.ustc.edu.cn/).
+I am very fortunate to be advised by [Associate Prof. Jiawei Liu](https://auto.ustc.edu.cn/2021/0510/c25977a484823/page.htm) and [Prof. Zheng-jun Zha](https://auto.ustc.edu.cn/2021/0510/c25976a484878/page.htm) from [National Engineering Laboratory for Brain-inspired Intelligence Technology and Application](http://leinao.ustc.edu.cn/).
 
 My research interests include Multimodal representation learning， Human-Object Interaction(HOI) Detection, and Deep learning. 
 
