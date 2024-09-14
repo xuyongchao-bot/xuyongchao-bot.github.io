@@ -33,7 +33,6 @@ My research interests are broadly in Multi-Modal Learning and Computer Vision, w
 * Excellent Graduation Thesis of NEU (top 1%), 2023
 
 ## Connections
-* [Email](yongchaoxu@mail.ustc.edu.cn)
 * [Github](https://github.com/xuyongchao-bot) 
 
   
