@@ -6,17 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first-year postgraduate student from [Multimodal Intelligence Lab](https://zhas-group.pages.dev/), [University of Science and Technology of China](https://www.ustc.edu.cn/).
+I'm a second-year postgraduate student from [Multimodal Intelligence Lab](https://zhas-group.pages.dev/), [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
 I am very fortunate to be advised by [Associate Prof. Jiawei Liu](https://auto.ustc.edu.cn/2021/0510/c25977a484823/page.htm) and [Prof. Zheng-jun Zha](https://auto.ustc.edu.cn/2021/0510/c25976a484878/page.htm) from [National Engineering Laboratory for Brain-inspired Intelligence Technology and Application](http://leinao.ustc.edu.cn/).
 
-My research interests include Multimodal representation learning， Human-Object Interaction(HOI) Detection, and Deep learning. 
+My research interests include Multimodal representation learning， Human-Object Interaction (HOI) Detection, and Deep learning. 
 
 
 ## Education Experience
-* Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
-* M.S. in Jinhua, Zhejiang Normal University, 2021
-* B.S. in Tongling, Tongling University, 2017
+#* Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
+* M.S. in Hefei, University of Science and Technology of China, 2023-2026 （expected）
+* B.S. in Shenyang, Northeastern University, 2019-2023
 
 ## Skills
 * Complex network modeling
