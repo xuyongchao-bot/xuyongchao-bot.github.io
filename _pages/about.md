@@ -18,7 +18,8 @@ My research interests include Multimodal representation learning， Human-Object
 * B.S. in Shenyang, Northeastern University, 2019-2023
 
 ## Publications
-* [ESCNet: Entity-enhanced and Stance Checking Network for Multi-modal Fact-Checking](https://dl.acm.org/doi/abs/10.1145/3589334.3645455)
+* [ESCNet: Entity-enhanced and Stance Checking Network for Multi-modal Fact-Checking, International World Wide Web Conference (WWW) 2024, (CCF A Meeting)](https://dl.acm.org/doi/abs/10.1145/3589334.3645455)
+* MGAW: An Effective Method for Geo-localization in Adverse Weather, ACM MULTIMEDIA (ACM MM workshop) 2024, (CCF A Meeting)
   
 ## Honors & Scholarship
 * National Scholarship, 2020
