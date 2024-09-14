@@ -24,14 +24,17 @@ My research interests are broadly in Multi-Modal Learning and Computer Vision, w
 ## Honors & Scholarship
 * National Scholarship (top 1%), 2020
 * [Principal's Medal of NEU, top 10 of all currently enrolled students, 2023](https://mp.weixin.qq.com/s?__biz=MzA4NzIwNjIzMg==&mid=2651072399&idx=1&sn=6e1d8af03df29b9f85d800939f6d83a2&chksm=8bcc77b8bcbbfeae422d3fb3066de303fe55bad02f9595e0c31edfe7edb1cbd699180f6f012a&scene=27)
-* Outstanding Winner (top 0.16%) and AMS award (top 0.02%) of the International Collegiate Mathematical Modeling Competition, 2022.
-* Outstanding graduates of Liaoning Province, 2023
+* Outstanding Winner (top 0.16%) and AMS Award (top 0.02%) of the International Collegiate Mathematical Modeling Competition, 2022.
 * First-Class Scholarship of NEU (top 3%), 2020/2023
 * First-Class Scholarship of USTC, 2023/2024
 * Second-Class Scholarship of NEU (top 10%), 2021/2022
-* Outstanding graduates of Liaoning Province (top 1%), 2023
+* Outstanding graduates of Liaoning Province (top 2%), 2023
+* Excellent Student Model of NEU (top 2%), 2020
+* Excellent Graduation Thesis of NEU (top 1%), 2023
+
+## Connections
+* [Email](yongchaoxu@mail.ustc.edu.cn)
+* [Github](https://github.com/xuyongchao-bot) 
+
   
-
-
-[Email](yongchaoxu@mail.ustc.edu.cn) / [Github](https://github.com/xuyongchao-bot) 
 
