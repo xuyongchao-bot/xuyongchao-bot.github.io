@@ -129,6 +129,17 @@
   }
 }
 
+.author__name-en,
+.author__name-zh {
+  display: block;
+}
+
+.author__name-zh {
+  margin-top: 0.18em;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+
 .sidebar .author__name {
   @include breakpoint($medium) {
     font-size: $type-size-3;

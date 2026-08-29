@@ -16,7 +16,7 @@ I am currently a 2nd-year Ph.D. student at the [University of Science and Techno
 ### Research Interests:
 
 - **Multimodal Reasoning and Understanding** - Developing models capable of understanding and reasoning over complex multimodal and long-horizon information
-- **Self-Evolving Agents** - Enabling agents to continuously acquire, refine, and internalize reusable knowledge and strategies from experience
+- **Self-Evolving Agents** - Enabling agents to continuously acquire, refine, and internalize reusable knowledge and strategies through interaction and experience
 - **Agentic Reinforcement Learning** — Training general agents with reinforcement learning for stronger reasoning, tool use, and long-horizon decision-making
 
 <span class='anchor' id='news'></span>

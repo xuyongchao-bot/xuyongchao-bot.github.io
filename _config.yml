@@ -4,7 +4,8 @@ repository               : "xuyongchao-bot/xuyongchao-bot.github.io"
 url                      : "https://xuyongchao-bot.github.io"
 
 author:
-  name             : "Yongchao Xu (徐永超)"
+  name             : "Yongchao Xu"
+  name_zh          : "徐永超"
   avatar           : "/images/danfo_cvpr26.jpg"
   bio              : "Ph.D. Student @ USTC"
   location         : "Hefei, China"
