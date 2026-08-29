@@ -16,7 +16,7 @@ I am currently a 2nd-year Ph.D. student at the [University of Science and Techno
 ### Research Interests:
 
 - **Multimodal Reasoning and Understanding** - Developing models capable of understanding and reasoning over complex multimodal and long-horizon information
-- **Multimodal Agents** - Enabling agents to continuously acquire, refine, and internalize reusable knowledge and strategies from experience
+- **Self-Evolving Agents** - Enabling agents to continuously acquire, refine, and internalize reusable knowledge and strategies from experience
 - **Agentic Reinforcement Learning** — Training general agents with reinforcement learning for stronger reasoning, tool use, and long-horizon decision-making
 
 <span class='anchor' id='news'></span>
@@ -24,16 +24,16 @@ I am currently a 2nd-year Ph.D. student at the [University of Science and Techno
 
 <div class="news-scroll compact-section">
 <ul>
-  <li><em>2026.04</em>: 📚 One paper on VLM-based class incremental learning (third author) was accepted by <a href="https://iccvm.org/2026/files/papers/9.pdf"><strong>CVM 2026<strong></a>.</li>
-  <li><em>2026.02</em>: 🎉 One paper on open-vocabulary HOI detection (first author) was accepted by <a href="https://cvpr.thecvf.com/"><strong>CVPR 2026 (highlight)<strong></a>.</li>
-  <li><em>2026.01</em>: 📚 One paper on active prompt learning (fifth author) was accepted by <a href="https://iclr.cc/"><strong>ICLR 2026<strong></a>.</li>
-  <li><em>2025.11</em>: 🎉 One paper on zero-shot HOI detection (co-first author) was accepted by <a href="https://link.springer.com/journal/11263"><strong>IJCV 2026<strong></a>.</li>
-  <li><em>2025.10</em>: 📚 One paper on active prompt learning (fourth author) was accepted by <a href="https://link.springer.com/journal/11263"><strong>IJCV 2026<strong></a>.</li>
-  <li><em>2025.07</em>: 🏆 One paper was accepted by <a href="https://2025.acmmm.org/"><strong>MM 2025 Workshop<strong></a> and received Third Place.</li>
-  <li><em>2025.02</em>: 📚 One paper on multi-task test-time adaptation (fifth author) was accepted by <a href="https://cvpr.thecvf.com/Conferences/2025"><strong>CVPR 2025<strong></a>.</li>
-  <li><em>2024.12</em>: 🎉 One paper on HOI detection (first author) was accepted by <a href="https://aaai.org/aaai-conference/"><strong>AAAI 2025<strong></a>.</li>
-  <li><em>2024.07</em>: 🏆 One paper was accepted by <a href="https://2024.acmmm.org/"><strong>MM 2024 Workshop<strong></a> and received Second Place.</li>
-  <li><em>2024.01</em>: 📚 One paper on multimodal fact-checking (fifth author) was accepted by <a href="https://www2024.thewebconf.org/"><strong>WWW 2024<strong></a>.</li>
+  <li><em>2026.04</em>: 📚 One paper on VLM-based class incremental learning (third author) was accepted by <a href="https://iccvm.org/2026/files/papers/9.pdf"><strong>CVM 2026</strong></a>.</li>
+  <li><em>2026.02</em>: 🎉 One paper on open-vocabulary HOI detection (first author) was accepted by <a href="https://cvpr.thecvf.com/"><strong>CVPR 2026 (highlight)</strong></a>.</li>
+  <li><em>2026.01</em>: 📚 One paper on active prompt learning (fifth author) was accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>.</li>
+  <li><em>2025.11</em>: 🎉 One paper on zero-shot HOI detection (co-first author) was accepted by <a href="https://link.springer.com/journal/11263"><strong>IJCV 2026</strong></a>.</li>
+  <li><em>2025.10</em>: 📚 One paper on active prompt learning (fourth author) was accepted by <a href="https://link.springer.com/journal/11263"><strong>IJCV 2026</strong></a>.</li>
+  <li><em>2025.07</em>: 🏆 One paper was accepted by <a href="https://2025.acmmm.org/"><strong>MM 2025 Workshop</strong></a> and received Third Place.</li>
+  <li><em>2025.02</em>: 📚 One paper on multi-task test-time adaptation (fifth author) was accepted by <a href="https://cvpr.thecvf.com/Conferences/2025"><strong>CVPR 2025</strong></a>.</li>
+  <li><em>2024.12</em>: 🎉 One paper on HOI detection (first author) was accepted by <a href="https://aaai.org/aaai-conference/"><strong>AAAI 2025</strong></a>.</li>
+  <li><em>2024.07</em>: 🏆 One paper was accepted by <a href="https://2024.acmmm.org/"><strong>MM 2024 Workshop</strong></a> and received Second Place.</li>
+  <li><em>2024.01</em>: 📚 One paper on multimodal fact-checking (fifth author) was accepted by <a href="https://www2024.thewebconf.org/"><strong>WWW 2024</strong></a>.</li>
 </ul>
 </div>
 
@@ -138,7 +138,7 @@ We establish a large-scale, multi-domain Chinese multimodal fact-checking datase
 - **2023.06**: Outstanding Graduate of Liaoning Province (辽宁省优秀毕业生，Top 1%).
 - **2023.05**: Principal's Medal of NEU (<span style="color: #c00000;">**东北大学校长奖章, 全校10人**</span>).
 - **2022.09**: First-Class Scholarship of NEU (校一等奖学金，Top 3%).
-- **2022.05**: Outstanding Winner and AMS Award of the International Collegiate Mathematical Modeling Competition (美赛O奖&AMS奖，Top 0.02%).
+- **2022.05**: Outstanding Winner and AMS Award of the International Collegiate Mathematical Modeling Competition (<span style="color: #c00000;">**美赛O奖&AMS奖**，Top 0.02%</span>).
 - **2020.09**: National Scholarship of China (<span style="color: #c00000;">**本科生国家奖学金, Top 1%**</span>); First-Class Scholarship of NEU (校一等奖学金，Top 3%).
 
 </div>
