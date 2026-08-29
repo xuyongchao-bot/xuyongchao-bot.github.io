@@ -334,18 +334,6 @@
     }
   }
 
-  .author__meta {
-    display: flex;
-    align-items: flex-start;
-    gap: 0.3em;
-    padding: 0.25em 0;
-    white-space: normal;
-
-    i {
-      flex: 0 0 1.25em;
-      margin-top: 0.2em;
-    }
-  }
 }
 
 /* The compact theme dropdown is replaced by the always-visible contact list. */

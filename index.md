@@ -9,20 +9,18 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-# <i class="fas fa-user section-icon" aria-hidden="true"></i> About Me
+# About Me
 
 I am currently a Ph.D. student (2025-2028) in Electronic and Information Engineering at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), supervised by Prof. [Zheng-Jun Zha](https://auto.ustc.edu.cn/2021/0510/c25976a484878/page.htm) and Associate Prof. [Jiawei Liu](https://jiaweiliu92.github.io/). Previously, I received my Master's degree from USTC (2023-2025) and my Bachelor's degree in Automation from [Northeastern University](http://www.neu.edu.cn/) (2019-2023).
 
-### <i class="fas fa-brain section-icon" aria-hidden="true"></i> Research Interests
+### Research Interests:
 
-<ul class="research-interest-list">
-  <li><i class="fas fa-cubes" aria-hidden="true"></i><strong>Multimodal Large Models</strong></li>
-  <li><i class="fas fa-robot" aria-hidden="true"></i><strong>Multimodal Agents</strong></li>
-  <li><i class="fas fa-brain" aria-hidden="true"></i><strong>Agentic Reinforcement Learning (Agentic RL)</strong></li>
-</ul>
+- **Multimodal Large Models**
+- **Multimodal Agents**
+- **Agentic Reinforcement Learning (Agentic RL)**
 
 <span class='anchor' id='news'></span>
-# <i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News
+# 🔥 News
 
 <div class="news-scroll compact-section">
 <ul>
@@ -40,21 +38,21 @@ I am currently a Ph.D. student (2025-2028) in Electronic and Information Enginee
 </div>
 
 <span class='anchor' id='education'></span>
-# <i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i> Education
+# 📖 Education
 
 <div class="compact-section" markdown="1">
 
-- <i class="fas fa-graduation-cap" aria-hidden="true"></i> **2025.09 - Present** | **Ph.D. in Electronic and Information Engineering**<br>
+- <span style="font-size: 0.92em;">**2025.09 - Present** | <img src="/images/ustc.jpg" style="width: 1em;" alt="USTC"> **Ph.D. in Electronic and Information Engineering**</span><br>
   University of Science and Technology of China
-- <i class="fas fa-graduation-cap" aria-hidden="true"></i> **2023.09 - 2025.06** | **M.Eng. in Electronic and Information Engineering**<br>
+- <span style="font-size: 0.92em;">**2023.09 - 2025.06** | <img src="/images/ustc.jpg" style="width: 1em;" alt="USTC"> **M.Eng. in Electronic and Information Engineering**</span><br>
   University of Science and Technology of China
-- <i class="fas fa-graduation-cap" aria-hidden="true"></i> **2019.09 - 2023.06** | **B.Eng. in Automation**<br>
+- <span style="font-size: 0.92em;">**2019.09 - 2023.06** | **B.Eng. in Automation**</span><br>
   Northeastern University
 
 </div>
 
 <span class='anchor' id='publications'></span>
-# <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Selected Publications
+# 📝 Selected Publications
 
 <div class="paper-box"><div class="paper-box-image"><img src="/images/DMGDA.png" alt="DMGDA pipeline"></div><div class="paper-box-text" markdown="1">
 ### [Mining the Potential of Rehearsal Mechanism for VLM-based Class Incremental Learning](https://iccvm.org/2026/files/papers/9.pdf)
@@ -129,7 +127,7 @@ We establish a large-scale, multi-domain Chinese multimodal fact-checking datase
 </div></div>
 
 <span class='anchor' id='awards'></span>
-# <i class="fas fa-award section-icon" aria-hidden="true"></i> Awards
+# 🏆 Awards
 
 <div class="compact-section" markdown="1">
 

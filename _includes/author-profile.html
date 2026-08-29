@@ -14,18 +14,6 @@
   </div>
 
   <ul class="author__contact-list social-icons" aria-label="Contact and academic profiles">
-    {% if site.description %}
-      <li class="author__meta"><i class="fas fa-fw fa-brain" aria-hidden="true"></i><span>{{ site.description }}</span></li>
-    {% endif %}
-    {% if author.location %}
-      <li class="author__meta"><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i><span>{{ author.location }}</span></li>
-    {% endif %}
-    {% if author.employer %}
-      <li class="author__meta"><i class="fas fa-fw fa-university" aria-hidden="true"></i><span>{{ author.employer }}</span></li>
-    {% endif %}
-    {% if author.uri %}
-      <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> USTC Website</a></li>
-    {% endif %}
     {% if author.email %}
       <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
     {% endif %}
@@ -62,7 +50,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fas fa-fw fa-university" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
