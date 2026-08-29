@@ -11,13 +11,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a Ph.D. student (2025-2028) in Electronic and Information Engineering at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), supervised by Prof. [Zheng-Jun Zha](https://auto.ustc.edu.cn/2021/0510/c25976a484878/page.htm) and Associate Prof. [Jiawei Liu](https://jiaweiliu92.github.io/). Previously, I received my Master's degree from USTC (2023-2025) and my Bachelor's degree in Automation from [Northeastern University](http://www.neu.edu.cn/) (2019-2023).
+I am currently a 2nd-year Ph.D. student at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), fortunate to be co-advised by Prof. [Zheng-Jun Zha](https://auto.ustc.edu.cn/2021/0510/c25976a484878/page.htm) and Associate Prof. [Jiawei Liu](https://jiaweiliu92.github.io/). Previously, I received my Bachelor's degree in Automation from [Northeastern University](http://www.neu.edu.cn/) (2019-2023).
 
 ### Research Interests:
 
 - **Multimodal Large Models**
 - **Multimodal Agents**
-- **Agentic Reinforcement Learning (Agentic RL)**
+- **Agentic Reinforcement Learning**
 
 <span class='anchor' id='news'></span>
 # 🔥 News
@@ -46,7 +46,7 @@ I am currently a Ph.D. student (2025-2028) in Electronic and Information Enginee
   University of Science and Technology of China
 - <span style="font-size: 0.92em;">**2023.09 - 2025.06** | <img src="/images/ustc.jpg" style="width: 1em;" alt="USTC"> **M.Eng. in Electronic and Information Engineering**</span><br>
   University of Science and Technology of China
-- <span style="font-size: 0.92em;">**2019.09 - 2023.06** | **B.Eng. in Automation**</span><br>
+- <span style="font-size: 0.92em;">**2019.09 - 2023.06** | <img src="/images/neu.png" style="width: 1em;" alt="NEU"> **B.Eng. in Automation**</span><br>
   Northeastern University
 
 </div>
