@@ -121,6 +121,7 @@
 }
 
 .author__name {
+  display: inline-block;
   margin: 0;
 
   @include breakpoint($large) {
@@ -135,6 +136,7 @@
 }
 
 .author__name-zh {
+  width: 100%;
   margin-top: 0.18em;
   font-size: 0.9em;
   text-align: center;
