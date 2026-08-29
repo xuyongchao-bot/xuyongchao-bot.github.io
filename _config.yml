@@ -1,0 +1,101 @@
+title                    : "Yongchao Xu"
+description              : "Multimodal Large Models; Multimodal Agents; Agentic Reinforcement Learning"
+repository               : "xuyongchao-bot/xuyongchao-bot.github.io"
+url                      : "https://xuyongchao-bot.github.io"
+
+author:
+  name             : "Yongchao Xu (徐永超)"
+  avatar           : "/images/danfo_cvpr26.jpg"
+  bio              : "Ph.D. Student @ USTC"
+  location         : "Hefei, China"
+  employer         : "University of Science and Technology of China"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Q-pW1oYAAAAJ"
+  email            : "yongchaoxu@mail.ustc.edu.cn"
+  github           : "xuyongchao-bot"
+
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - google_scholar_crawler
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - legacy
+  - log
+  - node_modules
+  - tmp
+  - vendor
+  - _site
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
