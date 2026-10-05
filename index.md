@@ -24,7 +24,7 @@ I am currently a 2nd-year Ph.D. student at the [University of Science and Techno
 
 <div class="news-scroll compact-section">
 <ul>
-  <li><em>2026.09</em>: 🎉 Three papers were accepted by <strong>NeurIPS 2026</strong>.</li>
+  <li><em>2026.09</em>: 🎉 Three papers were accepted by <a href="https://neurips.cc/"><strong>NeurIPS 2026</strong></a>.</li>
   <li><em>2026.04</em>: 📚 One paper on VLM-based class incremental learning (third author) was accepted by <a href="https://iccvm.org/2026/files/papers/9.pdf"><strong>CVM 2026</strong></a>.</li>
   <li><em>2026.02</em>: 🎉 One paper on open-vocabulary HOI detection (first author) was accepted by <a href="https://cvpr.thecvf.com/"><strong>CVPR 2026 (highlight)</strong></a>.</li>
   <li><em>2026.01</em>: 📚 One paper on active prompt learning (fifth author) was accepted by <a href="https://iclr.cc/"><strong>ICLR 2026</strong></a>.</li>
