@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-I am currently a 2nd-year Ph.D. student at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), fortunate to be co-advised by Prof. [Zheng-Jun Zha](https://auto.ustc.edu.cn/2021/0510/c25976a484878/page.htm) and Associate Prof. [Jiawei Liu](https://jiaweiliu92.github.io/). Previously, I received my Bachelor's degree in Automation from [Northeastern University](http://www.neu.edu.cn/) (2019-2023).
+Hi (你好)！ I am currently a 2nd-year Ph.D. student at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), fortunate to be co-advised by Prof. [Zheng-Jun Zha](https://auto.ustc.edu.cn/2021/0510/c25976a484878/page.htm) and Associate Prof. [Jiawei Liu](https://jiaweiliu92.github.io/). Previously, I received my Bachelor's degree in Automation from [Northeastern University](http://www.neu.edu.cn/) (2019-2023).
 
 ### Research Interests:
 
