@@ -132,6 +132,7 @@ We establish a large-scale, multi-domain Chinese multimodal fact-checking datase
 
 <div class="compact-section" markdown="1">
 
+- **2026.10**: National Scholarship of China (<span style="color: #c00000;">**博士生国家奖学金, Top 1%**</span>)
 - **2026.09**: First-Class Scholarship of USTC (校一等奖学金).
 - **2025.09**: First-Class Scholarship of USTC (校一等奖学金).
 - **2024.09**: First-Class Scholarship of USTC (校一等奖学金).
